@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# @Filename: getrearth.py
+# @Filename: getearth.py
 # @Time: 2018/2/12 9:31
 # @Last Modified time: 2018/2/12 9:31
 # @Explain: This file is for draw the earth
