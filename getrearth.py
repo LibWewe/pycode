@@ -3,7 +3,7 @@
 # @Filename: getrearth.py
 # @Time: 2018/2/12 9:31
 # @Last Modified time: 2018/2/12 9:31
-# @Explain: This file is for ...
+# @Explain: This file is for draw the earth
 
 
 
